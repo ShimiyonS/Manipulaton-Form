@@ -1,0 +1,48 @@
+body{
+    background: linear-gradient(#2196f3 ,#e91e63);
+}
+.Title{
+    text-align: center;
+}
+.form-check-label{
+    border: 2PX solid lightblue;
+}
+table{
+    text-align: center;
+    border: 1px solid black;
+}
+select{
+    height: 35px;
+}
+.table{
+    border-collapse: collapse;
+    width: 50%;
+    margin: 50PX auto;
+    background-color: aqua;
+}
+table{
+    border: 2px solid black;
+    padding: 5px;
+}
+th{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #004d00;
+}
+td{
+    font-size: 20px;
+    color: crimson;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+tbody{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+th,td{
+    border: 2px solid white;
+}
+.table{
+    margin-top: 0px;
+}
